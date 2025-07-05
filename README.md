@@ -1,6 +1,6 @@
 Below is a complete, polished, and integrated `README.md` file for your repository, based on the provided content. It’s structured to be clear, professional, and concise, while incorporating all key elements such as the paper citation, attention mechanism categories, plug-and-play modules, dynamic networks, vision transformers, and a section for contributions. I've also added a placeholder for your personal contribution and ensured the content is streamlined to avoid redundancy. The file is formatted in Markdown, ready to be added to your repository.
 
-```markdown
+
 # Awesome Attention Mechanisms in Computer Vision
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
