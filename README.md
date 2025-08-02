@@ -3,6 +3,7 @@ Below is a complete, polished, and integrated `README.md` file for your reposito
 
 # Awesome Attention Mechanisms in Computer Vision
 
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository is a comprehensive resource for attention mechanisms in computer vision, inspired by the paper *[Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/abs/2111.07624)* by Meng-Hao Guo et al. It includes a curated list of papers, code implementations, and plug-and-play modules, covering channel, spatial, temporal, branch, and hybrid attention mechanisms, as well as vision transformers. Contributions are welcome!
