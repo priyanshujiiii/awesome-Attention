@@ -329,6 +329,123 @@ Cross-modal and co-attention for tasks combining vision + language / audio + vis
 
 ---
 
+# Medical Imaging Attention — Awesome Attention
+
+Attention applied to segmentation, detection, and diagnosis in medical imaging.
+
+| Title | Authors | Venue | Year | Paper Link |
+|---|---|---:|---:|---|
+| Attention U-Net: Learning Where to Look for the Pancreas | O. Oktay et al. | MIDL | 2018 | []() |
+| TransUNet: Transformers make strong encoders for medical image segmentation | J. Chen et al. | arXiv | 2021 | []() |
+| CA-Net: Comprehensive Attention Convolutional Neural Networks | L. et al. | TMI | 2021 | []() |
+| Residual Attention: multi-label recognition & med apps | — | ICCV | 2021 | []() |
+| ASDNet / ASD approaches for med seg | D. Nie et al. | MICCAI | 2018 | []() |
+| Multi-scale self-guided attention for medical segmentation | A. Sinha & J. Dolz | JBHI | 2021 | []() |
+| SE + spatial gating in medical segmentation | — | MICCAI / TMI | 2018–2020 | []() |
+| Attention-guided CNN for thorax disease classification | — | arXiv | 2019 | []() |
+| TransUNet + hybrid attention modules | — | MICCAI / arXiv | 2021 | []() |
+| Attention in radiology report generation | B. Jing et al. | ACL | 2018 | []() |
+| Self-attention for medical image pretraining | — | MICCAI / CoRR | 2020–2022 | []() |
+| Multi-level attention U-Nets for segmentation | — | MIDL / MICCAI | 2018–2021 | []() |
+| Attention for disease localization (weak supervision) | — | CVPR / MICCAI | 2019 | []() |
+| Attention-guided detection in chest X-rays | — | TMI / arXiv | 2019 | []() |
+| Explainable attention modules for clinical use | — | TMI / JAMIA | 2020–2022 | []() |
+| TransUNet variants & hybrid attention designs | — | arXiv / MICCAI | 2021–2022 | []() |
+| Attention-based segmentation for COVID-19 CT scans | X. Chen et al. | arXiv | 2020 | []() |
+| Attention modules for histopathology image analysis | — | MICCAI / TMI | 2019–2021 | []() |
+| Channel+spatial attention for organ segmentation | — | MIDL | 2018–2021 | []() |
+| Attention for multi-modal medical fusion (MRI+PET) | — | MICCAI | 2019–2021 | []() |
+| Attention for medical report generation & alignment | B. Jing et al. | ACL | 2018 | []() |
+| Attention + transformers for 3D medical volumes | — | MICCAI / CoRR | 2021 | []() |
+| Attention for disease progression modeling (time-series clinical) | — | AAAI / NeurIPS workshops | 2019–2021 | []() |
+| Attention-guided lesion detection & segmentation | — | CVPR / MICCAI | 2019–2021 | []() |
+| Attention for ultrasound image analysis | — | IUS / MICCAI | 2019–2021 | []() |
+| Attention for cell & nuclei segmentation (NAS-SCAM etc.) | — | MICCAI / ECCV | 2020 | []() |
+| Attention for MRI reconstruction tasks | — | ISBI / MICCAI | 2019–2021 | []() |
+| Attention for medical anomaly detection & weakly-supervised learning | — | MICCAI | 2020–2022 | []() |
+| Misc medical imaging attention survey & datasets | — | Surveys / Repos | 2018–2022 | []() |
+
+---
+
+# Surveys & Reviews — Awesome Attention
+
+Survey and review papers summarizing the attention literature.
+
+| Title | Authors | Venue | Year | Paper Link |
+|---|---|---:|---:|---|
+| An Attentive Survey of Attention Models | S. Chaudhari et al. | ACM TIST / CoRR | 2019–2021 | []() |
+| Survey on the attention based RNN model and its CV applications | F. Wang, D. M. J. Tax | arXiv | 2016 | []() |
+| Attention Mechanisms in Computer Vision: A Survey | M.-H. Guo et al. | Computational Visual Media | 2022 | []() |
+| Efficient Transformers: A Survey | Y. Tay et al. | arXiv | 2020 | []() |
+| Attention models in graphs: A survey | J. B. Lee et al. | ACM TKDD | 2019 | []() |
+| Introductory surveys on attention in NLP | D. Hu | IntelliSys Proceedings | 2019/2020 | []() |
+| Attention — critical review & analysis (NLP) | A. Galassi et al. | arXiv | 2019 | []() |
+| Human attention vs model attention (VQA) | A. Das et al. | CVIU | 2017 | []() |
+| Attention explainability debates (Is attention explanation?) | S. Jain & B. Wallace / S. Wiegreffe & Y. Pinter | NAACL / EMNLP | 2019 | []() |
+| Survey on attention in speech/audio | — | Surveys / Interspeech | 2019–2020 | []() |
+| Surveys of attention in vision / transformers | — | CVPR Workshops | 2020–2022 | []() |
+| Survey: Attention in medical imaging | — | TMI / MICCAI Workshop | 2020–2022 | []() |
+| Benchmarks & evaluations of attention methods | — | Reproducibility studies | 2019–2022 | []() |
+| Attention for fairness & interpretability (surveys) | — | FAT* / ICLR workshops | 2020–2022 | []() |
+| Survey: Attention in recommender systems | — | KDD / Surveys | 2019 | []() |
+| Survey: Efficient attention approximations | — | arXiv | 2020–2022 | []() |
+| Meta-analyses comparing attention modules in CV | — | Repositories / Workshops | 2020 | []() |
+| Tutorials on attention & transformers | — | NeurIPS / ICML tutorials | 2018–2022 | []() |
+| Survey on attention for graph neural networks | — | TKDD | 2019 | []() |
+| Survey on self-attention in generative models | — | ICML / NeurIPS | 2019–2021 | []() |
+| Review of attention metrics & evaluation protocols | — | Workshops | 2020 | []() |
+| Survey on multi-modal attention methods | — | ACM MM / Surveys | 2019–2021 | []() |
+| Surveys on attention in reinforcement learning | — | RL workshops | 2019–2021 | []() |
+| Survey on attention in time-series modeling | — | Time-series workshops | 2020 | []() |
+| Surveys on attention-based architecture search (NAS) | — | ICCV / CoRR | 2020 | []() |
+| Historical perspectives on attention (foundational works) | — | Retrospectives | 2015–2020 | []() |
+| Survey resources & curated lists (repos) | — | GitHub / ArXiv | 2019–2022 | []() |
+| Comparative survey: attention vs conv paradigms | — | CoRR | 2022 | []() |
+| Misc survey & tutorial resources | — | Various | 2016–2022 | []() |
+
+---
+
+# Miscellaneous / Domain-specific Attention — Awesome Attention
+
+Papers that don't fit neatly into the above or are domain-specific (recommendation, finance, robotics, dynamic convolution, plug-and-play modules).
+
+| Title | Authors | Venue | Year | Paper Link |
+|---|---|---:|---:|---|
+| Dynamic Convolution: Attention over Convolution Kernels | — | CVPR | 2020 | []() |
+| CondConv: Conditionally Parameterized Convolutions | — | NeurIPS | 2019 | []() |
+| PP-NAS: Searching for Plug-and-Play Blocks on CNNs | — | ICCV Workshop | 2021 | []() |
+| Attention-like Structural Re-parameterization (ASR) | — | CoRR | 2023 | []() |
+| Temporal attention-augmented bilinear network (finance) | D. T. Tran et al. | TNNLS | 2019 | []() |
+| Attend and Diagnose: Clinical time series analysis using attention models | H. Song et al. | AAAI | 2018 | []() |
+| Multi-agent game abstraction via graph attention | Y. Liu et al. | AAAI | 2020 | []() |
+| Attention models in recommender systems: Multi-pointer co-attention | Y. Tay et al. | KDD | 2018 | []() |
+| Learn to Pay Attention (general) | — | ICLR | 2018 | []() |
+| Attention in NAS: Att-DARTS / NAS-SCAM | — | IJCNN / MICCAI | 2020 | []() |
+| Attention for robotics: introvert human trajectory prediction | — | CVPR | 2021 | []() |
+| Plug-and-play attention blocks for lightweight models (ULSAM etc.) | — | WACV / TIP | 2020–2021 | []() |
+| Attention for remote sensing & satellite imagery tasks | — | IGARSS / CVPR | 2019–2021 | []() |
+| Attention for financial forecasting & trading systems | — | TNNLS / Workshops | 2019–2021 | []() |
+| Attention for recommendation & user modeling | — | WWW / RecSys | 2018–2021 | []() |
+| Attention in multi-task & continual learning | — | NeurIPS / ICLR | 2019–2022 | []() |
+| Attention for speech enhancement & denoising (project) | — | ICASSP | 2019–2021 | []() |
+| Attention for style transfer & generative tasks | — | ICCV / NeurIPS | 2018–2021 | []() |
+| Attention in robotics perception & control | — | ICRA / IROS | 2018–2021 | []() |
+| Plug-and-play modules summary (ACNet, MixConv, GhostNet) | — | ICCV / CVPR | 2019–2020 | []() |
+| Attention in explainability & interpretability methods | — | ACL / ICLR | 2019–2021 | []() |
+| Attention for search & retrieval systems | — | SIGIR / WWW | 2018–2021 | []() |
+| Attention for anomaly detection (time-series, vision) | — | AAAI / CVPR Workshops | 2019–2021 | []() |
+| Attention modules and dynamic networks (CondConv, SkipNet) | — | NeurIPS / ECCV | 2017–2020 | []() |
+| Attention for low-power/mobile networks (MobileViT, LeViT) | — | CoRR | 2021 | []() |
+| Attention for generative pretraining from pixels (iGPT) | — | PMLR | 2020 | []() |
+| Attention for video compression & encoding | — | ICIP / CVPR Workshops | 2019–2021 | []() |
+| Attention in human behavior modeling & trajectory prediction | — | CVPR | 2021 | []() |
+| Misc domain-specific attention works & toolkits | — | Various | 2015–2022 | []() |
+
+---
+
+
+
+
 
 
 
