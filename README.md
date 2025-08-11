@@ -2,7 +2,7 @@
 
 A curated list of research papers, surveys, and resources on Attention Mechanisms across various domains, including Computer Vision, Natural Language Processing, Speech, Graphs, Multi-modal Learning, Medical Imaging, and more. This repository organizes papers into categories, each with a structured table containing the following columns: **Title | Authors | Venue | Year | Paper Link**.
 
-> **Note:** This repository is actively maintained and updated **monthly** with the latest Agentic AI papers and resources.
+> **Note:** This repository is actively maintained and updated **monthly** with the latest Attention papers and resources.
 
 
 ## Table of Contents
